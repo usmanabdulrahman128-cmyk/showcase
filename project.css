@@ -464,6 +464,10 @@ footer{
         font-size: smaller;
     }
 
+    #about-text a{
+        flex-direction: row;
+    }
+
     .projects-text{
         font-size: small;
     }
