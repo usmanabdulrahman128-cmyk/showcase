@@ -447,7 +447,7 @@ footer{
         align-items: center;
     }
     .about-texts p{
-        width: 60%;
+        width: 100%;
         font-size: smaller;
     }
 
@@ -459,8 +459,13 @@ footer{
         font-size: medium;
     }
 
-    .donate-text p{
+    #donate{
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
         font-size: small;
+        width: 100vw;
+        height: 80vh;
     }
 }
 
