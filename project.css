@@ -466,7 +466,7 @@ footer{
 
     #a{
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
     }
 
     .projects-text{
