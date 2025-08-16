@@ -464,7 +464,8 @@ footer{
         font-size: smaller;
     }
 
-    #about-container #a{
+    #a{
+        display: flex;
         flex-direction: row;
     }
 
